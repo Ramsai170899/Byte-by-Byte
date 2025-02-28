@@ -64,8 +64,10 @@
     * 9.1 Retrieving Data (SELECT)
     * 9.2 Filtering Data (WHERE)
     * 9.3 Sorting Data (ORDER BY)
-    * 9.4 Selecting Distinct Values (DISTINCT)
-    * 9.5 Limiting Results (LIMIT/TOP)
+    * 9.4 Aggregating Data (GROUP BY)
+    * 9.5 Combining conditions (AND/OR)
+    * 9.6 Selecting Distinct Values (DISTINCT)
+    * 9.7 Limiting Results (LIMIT/TOP)
 * **Chapter 10: Data Manipulation Language (DML) - Data Modification**
     * 10.1 Inserting Data (INSERT)
     * 10.2 Updating Data (UPDATE)
